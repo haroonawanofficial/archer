@@ -25,12 +25,11 @@ cd archer
 python3 -m pip install -r requirements.txt
 ```
 
-# Crawl a domain, then scan top 100 links with adaptive payloads
+> Crawl a domain, then scan top 100 links with adaptive payloads
 python archer.py --domain example.com --test-links 100 --adaptive --report report.html
 
 
-# Use an existing URL list, skip duplicate tests after 5 hits,
-# and restrict filters to the top 25 obfuscation chains
+> Use an existing URL list, skip duplicate tests after 5 hits, and restrict filters to the top 25 obfuscation chains
 python archer.py --list urls.txt --skip-duplicate 5 --use-filters 25 --thread 100 --report report.html
 
 
