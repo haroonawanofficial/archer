@@ -1,6 +1,6 @@
 #  Archer
 
-> **Archer: WAF-aware, lightning-fast XSS hunter—zero false noise.**
+> **Archer: Server-aware, WAF-aware, lightning-fast XSS hunter—zero false noise.**
 
 ---
 
