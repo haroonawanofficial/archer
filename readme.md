@@ -6,6 +6,8 @@
 
 ## Download full pdf here
 
+http://cyberzeus.pk/Archer_Offensive_Security_Framework_Technical_Guide.pdf
+
 ---
 
 
